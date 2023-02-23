@@ -1,0 +1,276 @@
+body {
+
+    background-color: rgb(8, 8, 39);
+
+
+}
+.back {
+
+background-color: rgb(8, 8, 39);
+
+
+}
+
+.active {
+
+
+color:rgb(137, 137, 209) !important ;
+}
+
+.hovy:hover {
+
+    color:rgb(137, 137, 209) !important ;
+
+
+}
+
+.hovy3:hover {
+
+    border: 2px solid rgb(137, 137, 209);
+    border-radius: 500px;
+
+}
+
+.cantara {
+
+justify-content: space-between;
+
+
+}
+
+
+.justborder{
+
+border: 2px solid rgb(137, 137, 209);
+border-radius: 500px;
+color:rgb(137, 137, 209) !important ;
+}
+
+.intuer{
+
+    background: linear-gradient(to top , rgba(0, 0, 0, 0.068) , rgba(0, 0, 0, 0.219) ),url(banner.png);
+    background-position: 5%;
+    background-size: cover;
+    height: 40vh;
+
+margin:0 auto 200px ;
+
+}
+
+
+
+.season{
+
+background-color: rgba(0, 0, 0, 0.425);
+color: white;
+padding: 10px;
+cursor: pointer;
+border-radius: 500px;
+transition: all 0.5s;
+
+
+}
+
+.season:hover{
+
+    background-color: white;
+    color: black;
+
+}
+
+
+.inter {
+
+border-radius: 500px;
+background-color: rgb(23, 22, 73);
+width: 100%;
+outline: none;
+padding: 1rem;
+color: white;
+margin: auto;
+
+
+}
+
+.dad {
+
+width: 90%;
+
+
+}
+
+.anotherinput {
+
+position: absolute;
+right: 8px;
+top: 5px;
+padding: 0.7rem;
+background-color: rgb(61, 55, 87);
+border-radius: 0 500px 500px 0;
+color: white;
+font-size: 1rem;
+}
+
+.anotherinput:hover {
+
+    background-color: rgb(95, 79, 163);
+color: white;
+    
+}
+
+.opgg {
+
+background-color: rgb(17, 14, 63);
+padding: 0;
+color: white;
+border-radius: 10px;
+margin-top: 80px;
+
+
+}
+
+.days {
+
+display: flex;
+justify-content: space-between;
+background-color: rgb(33, 27, 114);
+color: white;
+padding: 8px;
+border-radius: 10px 0 0 0;
+
+
+}
+.one {
+
+    background-color: rgb(33, 27, 114);
+    color: white;
+    padding: 8px 0;
+
+
+
+
+}
+.agree {
+
+font-size: 5rem;
+font-weight: bold;
+
+
+}
+
+.diff {
+
+    background-color: rgba(8, 6, 34, 0.479);
+
+    
+}
+
+
+.deco{
+
+text-decoration: none;
+color: rgb(149, 147, 189);
+
+
+
+}
+
+.deco:hover {
+
+border-bottom: 1px solid white;
+
+
+}
+
+.nono {
+
+    background-color: rgb(29, 29, 59);
+
+
+}
+
+.koko {
+
+width: 49%;
+background-color: rgb(8, 8, 39);
+border: 2px solid rgb(145, 79, 79);
+border-radius: 500px;
+padding: 15px;
+outline: none;
+color: white;
+margin: 5px 0;
+
+}
+
+.koko:hover {
+
+    border: 2px solid rgb(30, 106, 221);
+}
+
+.koko:focus {
+
+
+    border: 2px solid rgb(30, 106, 221);
+
+}
+
+.aslike {
+
+    width: 100%;
+    background-color: rgb(8, 8, 39);
+    border: 2px solid rgb(145, 79, 79);
+    border-radius: 10px;
+    padding: 15px;
+    outline: none;
+    color: white;
+    margin: 5px 0 0 0;
+
+
+
+}
+
+.aslike:hover {
+
+
+    border: 2px solid rgb(30, 106, 221);
+}
+
+.aslike:focus {
+
+
+    border: 2px solid rgb(30, 106, 221);
+
+}
+
+
+
+
+.house {
+
+width: 90%;
+border-radius: 500px;
+background-color: rgb(29, 29, 59);
+padding: 20px;
+margin: auto;
+
+
+}
+
+
+
+.lastone {
+margin-top: 50px;
+    background-color: rgb(29, 29, 59);
+padding:15px 0;
+
+
+}
+
+
+
+
+
+
+
+
+

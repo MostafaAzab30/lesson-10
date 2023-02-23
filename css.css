@@ -1,0 +1,231 @@
+body {
+
+    background-color: rgb(8, 8, 39);
+
+
+}
+.back {
+
+background-color: rgb(8, 8, 39);
+
+
+}
+
+.active {
+
+
+color:rgb(137, 137, 209) !important ;
+}
+
+.hovy:hover {
+
+    color:rgb(137, 137, 209) !important ;
+
+
+}
+
+.hovy3:hover {
+
+    border: 2px solid rgb(137, 137, 209);
+    border-radius: 500px;
+
+}
+
+.cantara {
+
+justify-content: space-between;
+
+
+}
+
+
+.justborder{
+
+border: 2px solid rgb(137, 137, 209);
+border-radius: 500px;
+color:rgb(137, 137, 209) !important ;
+}
+
+.intuer{
+
+    background: linear-gradient(to top , rgba(0, 0, 0, 0.068) , rgba(0, 0, 0, 0.219) ),url(banner.png);
+    background-position: 5%;
+    background-size: cover;
+    height: 40vh;
+
+margin:0 auto 200px ;
+
+}
+
+.lastone {
+
+    background-color: rgb(29, 29, 59);
+padding:51px 0;
+
+
+}
+
+.season{
+
+background-color: rgba(0, 0, 0, 0.425);
+color: white;
+padding: 10px;
+cursor: pointer;
+border-radius: 500px;
+transition: all 0.5s;
+
+
+}
+
+.season:hover{
+
+    background-color: white;
+    color: black;
+
+}
+
+
+.inter {
+
+border-radius: 500px;
+background-color: rgb(23, 22, 73);
+width: 100%;
+outline: none;
+padding: 1rem;
+color: white;
+margin: auto;
+
+
+}
+
+.dad {
+
+width: 90%;
+
+
+}
+
+.anotherinput {
+
+position: absolute;
+right: 8px;
+top: 5px;
+padding: 0.7rem ;
+background-color: rgb(61, 55, 87);
+border-radius: 0 500px 500px 0;
+color: white;
+font-size: 1rem;
+}
+
+.anotherinput:hover {
+
+    background-color: rgb(95, 79, 163);
+color: white;
+    
+}
+
+.opgg {
+
+background-color: rgb(17, 14, 63);
+padding: 0;
+color: white;
+border-radius: 10px;
+margin-top: 80px;
+
+
+}
+
+.days {
+
+display: flex;
+justify-content: space-between;
+background-color: rgb(33, 27, 114);
+color: white;
+padding: 8px;
+border-radius: 10px 0 0 0;
+
+
+}
+.one {
+
+    background-color: rgb(33, 27, 114);
+    color: white;
+    padding: 8px 0;
+
+
+
+
+}
+.agree {
+
+font-size: 3.5rem;
+font-weight: bold;
+
+
+}
+
+.diff {
+
+    background-color: rgba(8, 6, 34, 0.479);
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px) {
+
+    .intuer {
+
+        margin:0 auto 800px ;
+
+
+    }
+    
+    
+    
+    
+    
+    }
